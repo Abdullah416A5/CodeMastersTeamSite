@@ -1,0 +1,1 @@
+import{j as s,I as t}from"./index-C-QcEkC5.js";import{S as e}from"./SecondSectionTitle-B_R3BM1y.js";const a=()=>s.jsxs("div",{className:"search-posts",children:[s.jsx(e,{content:"البحث"}),s.jsx(t,{id:"search-posts-input",placeholder:"بحث...",type:"text",icon:"search"})]});export{a as default};

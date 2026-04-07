@@ -1,0 +1,1 @@
+import{j as s}from"./index-C-QcEkC5.js";function r({content:e}){let i=e;return e.includes("/")&&(i=e.split("/")[1]),s.jsxs("section",{className:"page-title",children:[s.jsx("div",{className:"bg-pattern"}),s.jsx("h1",{className:"title",children:i}),s.jsxs("p",{children:["الرئيسية / ",s.jsx("b",{children:e})]})]})}export{r as P};

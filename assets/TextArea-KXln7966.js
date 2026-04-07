@@ -1,0 +1,1 @@
+import{j as a}from"./index-C-QcEkC5.js";const l=e=>a.jsxs("div",{className:"text-area",children:[a.jsx("label",{htmlFor:e.name,children:e.label}),a.jsx("textarea",{name:e.name,id:e.name,value:e.value,onChange:e.onChange,cols:e.cols,rows:e.rows})]});export{l as T};

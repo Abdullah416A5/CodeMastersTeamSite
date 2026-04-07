@@ -1,0 +1,1 @@
+import{j as n}from"./index-C-QcEkC5.js";function i(t){return n.jsxs("button",{className:"info-btn",children:[n.jsx("div",{className:"icon",children:t.icon}),n.jsx("p",{children:t.text})]})}export{i as I};

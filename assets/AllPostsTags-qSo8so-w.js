@@ -1,0 +1,1 @@
+import{j as s}from"./index-C-QcEkC5.js";import{S as e}from"./SecondSectionTitle-B_R3BM1y.js";const i=({tagsList:a})=>s.jsxs("div",{className:"all-posts-tags",children:[s.jsx(e,{content:"التاغات"}),s.jsx("div",{className:"all-posts-tags-items",children:a.map(t=>s.jsx("div",{className:"tag-item",children:t},t))})]});export{i as default};
